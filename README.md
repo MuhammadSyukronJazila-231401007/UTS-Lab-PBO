@@ -5,7 +5,7 @@ Project ini dibangun menggunakan **Java**, **JavaFX**, dan menggunakan file **FX
 
 # Catatan
 
-Jika terjadi error saat menjalankan proyek FXML, pastikan terlebih dahulu bahwa library JavaFX sudah dikonfigurasi ke dalam proyek. Panduan lengkapnya bisa kamu lihat di video ini:
+Jika terjadi error saat menjalankan proyek FXML, pastikan terlebih dahulu bahwa library JavaFX sudah dikonfigurasi ke dalam proyek. Panduan lengkapnya bisa dilihat di video ini:
 
 🔗 https://youtu.be/vYnMJOPztZM?si=o0GHn9TliDK-Lffu  
 
